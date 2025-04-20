@@ -6,10 +6,9 @@
 
 ### Main UI
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c321e72a-8a83-4050-b71f-1fddc972f4a7" alt="Demo Screenshot" width="400" />
+  <img src="https://github.com/user-attachments/assets/c321e72a-8a83-4050-b71f-1fddc972f4a7" alt="Demo Screenshot" width="500" />
 </p>
 
-### Features
 <p align="center">
   <img src="https://github.com/user-attachments/assets/19cf3e7f-7fae-450a-9d70-498e369adab4" alt="Image 1" width="500" />
   <img src="https://github.com/user-attachments/assets/dafe0a0a-b1fa-4701-9dc0-feadeb82d27d" alt="Image 2" width="500" />
